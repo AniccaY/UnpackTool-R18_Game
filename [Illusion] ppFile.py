@@ -1,7 +1,7 @@
 # [ILLUSION] 
 # GAME: RapeLay
 # FileType: .pp
-
+# unpack/repack illusion old games (.pp) format files
 import os
 from io import BytesIO
 
