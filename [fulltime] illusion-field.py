@@ -1,3 +1,6 @@
+# [FULLTIME] 
+# GAME: ILLUSION FIELD －幻影現実－
+# FileType: .txt
 def decrypt(data: bytearray):
     key = [255, 255, 255, 21, 80, 15, 255, 255, 255, 202, 2, 255, 21, 80, 255]
     for i in range(len(data)):
