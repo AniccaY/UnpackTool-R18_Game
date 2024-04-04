@@ -1,3 +1,7 @@
+# [ILLUSION] 
+# GAME: RapeLay
+# FileType: .pp
+
 import os
 from io import BytesIO
 
