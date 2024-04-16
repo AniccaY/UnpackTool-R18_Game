@@ -17,6 +17,13 @@ This Project will publish R18-Game Tool (Unpack, Repack, Decrypt, Encrypt etc)
     <td> [Illusion] ppFile.py </td>
   </tr>
   <tr>
+    <td> ILLUSION </td>
+    <td> SexyBeach3 </td>
+    <td> .sdt </td>
+    <td> unserialize illusion old games (.sdt) format files to csv </td>
+    <td> [Illusion] sdtFile.py </td>
+  </tr>
+  <tr>
     <td> FULLTIME </td>
     <td> ILLUSION FIELD －幻影現実－ </td>
     <td> .txt </td>
