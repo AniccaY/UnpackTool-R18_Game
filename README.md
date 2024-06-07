@@ -30,4 +30,11 @@ This Project will publish R18-Game Tool (Unpack, Repack, Decrypt, Encrypt etc)
     <td> decrypt/encrypt .txt file </td>
     <td> [fulltime] illusion-field.py </td>
   </tr>
+  <tr>
+  <td> Jellyfish </td>
+  <td> sisters～夏の最後の日～ (Sisters: Last Day of Summer) </td>
+  <td> .isa </td>
+  <td> unpack/repack "Sisters: Last Day of Summer" (.isa) format files </td>
+  <td> [Jellyfish] isaFile.py </td>
+  </tr>
 </table>
